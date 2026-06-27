@@ -1,0 +1,8 @@
+langgraph
+langchain-openai
+langchain-ollama
+streamlit
+pydantic
+python-dotenv
+streamlit-agraph
+
